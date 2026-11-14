@@ -6,7 +6,8 @@ Lead Mobile Engineer at Tether, on the Keet team. React Native since 2017, Swift
 
 ## Open source
 
-- [react-native-swipeable-actions](https://github.com/chocky335/react-native-swipeable-actions): native swipeable rows for React Native, built with Expo Modules. Gestures and springs run in Swift and Kotlin, so a busy JavaScript thread does not drop frames. 1.0 release candidate.
+- [react-native-swipeable-actions](https://github.com/chocky335/react-native-swipeable-actions): native swipeable rows for React Native, built with Expo Modules. Gestures and springs run in Swift and Kotlin, so a busy JavaScript thread does not drop frames.
+- [react-native-theme-reveal](https://github.com/chocky335/react-native-theme-reveal): animated theme switches for React Native. A native snapshot of the window animates away over the new theme: a reveal from the touch point, an inverse reveal, a wipe or a crossfade. Expo module for iOS and Android.
 - [Biome](https://github.com/biomejs/biome), in Rust: linter plugins batched into a single visitor ([#9184](https://github.com/biomejs/biome/pull/9184)), plugin file scoping ([#9171](https://github.com/biomejs/biome/pull/9171)), GritQL plugin rewrites with `--write` ([#9073](https://github.com/biomejs/biome/pull/9073)).
 - [Expo](https://github.com/expo/expo): TIFF support in expo-image-picker on iOS ([#39398](https://github.com/expo/expo/pull/39398)).
 - [Bare](https://github.com/holepunchto/bare) ecosystem: bare-kit, bare-media, ble-swarm, rocksdb-native and others, as part of the Keet work.
